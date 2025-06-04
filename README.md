@@ -3,7 +3,7 @@
 This repository contains public-facing resources for the High Agency project, including:
 
 - 🌐 Website source code
-- 📄 [Privacy Policy](https://yourusername.github.io/high-agency-site/privacy-policy.html)
+- 📄 [Privacy Policy](https://adrielvieira.github.io/high-agency-site/privacy-policy.html)
 - 📘 Additional documentation (as needed)
 
 ---
